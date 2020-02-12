@@ -27,6 +27,8 @@ Logo, se você estiver disposto a trabalhar com:
 
 Você precisa montar um ecommerce dos jogos da Marvel, utilizando as APIs provida por eles. Dentro os diversos requisitos de um e-commerce, alguns são requisitos obrigatórios para realizarmos um MVP.
 
+API: [https://developer.marvel.com](https://developer.marvel.com)
+
 O desafio está dividido em duas partes:
 
 - Defina os principais requisitos de negócio e técnicos e os descreva-os em alto nível
@@ -62,5 +64,4 @@ Destacamos abaixo alguns critérios que consideramos como fundamentais para um b
 * Organização e manutenção do código
 * Documentação de código
 * Documentação do projeto (readme)
-
-- Certamente você saíra na frente se nos entregar, pelo menos alguns, testes automatizados (ex: testes utilizando JEST)
+* Certamente você saíra na frente se nos entregar pelo menos alguns testes automatizados
