@@ -13,14 +13,13 @@ Logo, se você estiver disposto a trabalhar com:
 
 * Práticas ágeis como Scrum
 * Google Cloud Platform (GCP) e Amazon Web Services (AWS)
-* Micro services e aplicações distribuídas
-* Kubernetes
 * Git
+* Node
+* YARN
 * React
-* JAVA
+* Redux
 * Processamentos assíncronos
 * Robôs e RPA
-
 
 # Teste de Front-end Mutuus Seguros
 
@@ -63,3 +62,5 @@ Destacamos abaixo alguns critérios que consideramos como fundamentais para um b
 * Organização e manutenção do código
 * Documentação de código
 * Documentação do projeto (readme)
+
+- Certamente você saíra na frente se nos entregar, pelo menos alguns, testes automatizados (ex: testes utilizando JEST)
