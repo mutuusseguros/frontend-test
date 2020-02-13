@@ -13,20 +13,21 @@ Logo, se você estiver disposto a trabalhar com:
 
 * Práticas ágeis como Scrum
 * Google Cloud Platform (GCP) e Amazon Web Services (AWS)
-* Micro services e aplicações distribuídas
-* Kubernetes
 * Git
+* Node
+* YARN
 * React
-* JAVA
+* Redux
 * Processamentos assíncronos
 * Robôs e RPA
-
 
 # Teste de Front-end Mutuus Seguros
 
 ## O Desafio
 
 Você precisa montar um ecommerce dos jogos da Marvel, utilizando as APIs provida por eles. Dentro os diversos requisitos de um e-commerce, alguns são requisitos obrigatórios para realizarmos um MVP.
+
+API: [https://developer.marvel.com](https://developer.marvel.com)
 
 O desafio está dividido em duas partes:
 
@@ -63,3 +64,4 @@ Destacamos abaixo alguns critérios que consideramos como fundamentais para um b
 * Organização e manutenção do código
 * Documentação de código
 * Documentação do projeto (readme)
+* Certamente você saíra na frente se nos entregar pelo menos alguns testes automatizados
