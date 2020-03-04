@@ -53,7 +53,7 @@ Devem ser utilizadas as seguintes tecnologias:
 * Faça um breve comentário explicando o ciclo de vida dos componentes React, e justifique quando e como utilizá-los adequadamente
 * Liste 3 pontos de atenção que você identifique com relação a performance da aplicação e os justifique
 * Você deve enviar um arquivo ZIP para tecnologia@mutuus.net, ou compartilhar seu código em um repositório privado
-* Não há prazo mínimo para entrega do seu resultado
+* O prazo máximo para envio do teste é de uma semana.
 
 ### Nossa avaliação
 
