@@ -52,8 +52,9 @@ Devem ser utilizadas as seguintes tecnologias:
 * No arquivo README do projeto além de detalhar os requisitos, não deixe de explicar o funcionamento e as principais soluções adotadas justificando-as
 * Faça um breve comentário explicando o ciclo de vida dos componentes React, e justifique quando e como utilizá-los adequadamente
 * Liste 3 pontos de atenção que você identifique com relação a performance da aplicação e os justifique
-* Você deve enviar um arquivo ZIP para tecnologia@mutuus.net, ou compartilhar seu código em um repositório privado
-* O prazo máximo para envio do teste é de uma semana.
+* Publique o seu código em um repositório privado e adicione o @dpnascimento e o @felipeespitalher
+* Envie o link do projeto para tecnologia@mutuus.net
+* O prazo máximo para envio do teste é de uma semana
 
 ### Nossa avaliação
 
@@ -64,4 +65,5 @@ Destacamos abaixo alguns critérios que consideramos como fundamentais para um b
 * Organização e manutenção do código
 * Documentação de código
 * Documentação do projeto (readme)
+* Uso do GIT
 * Certamente você saíra na frente se nos entregar pelo menos alguns testes automatizados
