@@ -25,15 +25,11 @@ Logo, se você estiver disposto a trabalhar com:
 
 ## O Desafio
 
-Você precisa montar um ecommerce dos jogos da Marvel, utilizando as APIs provida por eles. Dentro os diversos requisitos de um e-commerce, alguns são requisitos obrigatórios para realizarmos um MVP.
+Você vai usar a api do [Pokémon](https://pokeapi.co/) para criar uma Pokédex para criar uma aplicação SPA. Essa aplicação deve conter esses requitos minimos:
 
-API: [https://developer.marvel.com](https://developer.marvel.com)
-
-O desafio está dividido em duas partes:
-
-- Defina os principais requisitos de negócio e técnicos e os descreva-os em alto nível
-- Priorizar pelo menos 5 requisitos de negócio e 2 requisitos técnicos, e justificar as escolhas
-- Desenvolver uma SPA que atenda os requisitos escolhidos
+- Uma página que liste todos os Pokémons com scroll infinito. Nessa lista deve ser apresentado a imagem do Pokémon e algumas infos básicas (nome, número, tipo, ... )
+- Ao clicar no Pokémon o usuário deve ser direcionado para uma tela com todas as informações sobre o mesmo que a API disponibiliza
+- Na tela de detalhes deve conter as infos básicas das evoluções passadas e futuras. Por exemplo se o usuário entrar nos detalhes do Ivysaur a aplicação de alguma forma deve exibir as informações do Bulbasaur e Venusaur. 
 
 ### Tecnologias/Padrões
 
@@ -48,12 +44,13 @@ Devem ser utilizadas as seguintes tecnologias:
 ### Como deve ser a entrega
 
 * Seja criativo e nos impressione com o layout de sua aplicação
-* Já sobre a arquitetura, faça suas escolhas e deixe nos entender seu racional
+* Já sobre a arquitetura, faça suas escolhas e deixe nós entender seu racional
 * No arquivo README do projeto além de detalhar os requisitos, não deixe de explicar o funcionamento e as principais soluções adotadas justificando-as
 * Faça um breve comentário explicando o ciclo de vida dos componentes React, e justifique quando e como utilizá-los adequadamente
 * Liste 3 pontos de atenção que você identifique com relação a performance da aplicação e os justifique
 * Publique o seu código em um repositório privado e adicione o @dpnascimento e o @felipeespitalher
-* Envie o link do projeto para tecnologia@mutuus.net
+* Descreva quanto tempo você dedicou para realizar o teste
+* Responda a thread de email do processo seletivo
 * O prazo máximo para envio do teste é de uma semana
 
 ### Nossa avaliação
@@ -66,4 +63,4 @@ Destacamos abaixo alguns critérios que consideramos como fundamentais para um b
 * Documentação de código
 * Documentação do projeto (readme)
 * Uso do GIT
-* Certamente você saíra na frente se nos entregar pelo menos alguns testes automatizados
+* E certamente você saíra na frente se nos entregar pelo menos alguns testes automatizados
