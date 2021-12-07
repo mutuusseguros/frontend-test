@@ -48,7 +48,7 @@ Devem ser utilizadas as seguintes tecnologias:
 * No arquivo README do projeto além de detalhar os requisitos, não deixe de explicar o funcionamento e as principais soluções adotadas justificando-as
 * Faça um breve comentário explicando o ciclo de vida dos componentes React, e justifique quando e como utilizá-los adequadamente
 * Liste 3 pontos de atenção que você identifique com relação a performance da aplicação e os justifique
-* Publique o seu código em um repositório privado e adicione o @dpnascimento e o @felipeespitalher
+* Publique o seu código em um repositório privado e adicione o @dpnascimento e o @josealencar
 * Descreva quanto tempo você dedicou para realizar o teste
 * Responda a thread de email do processo seletivo
 * O prazo máximo para envio do teste é de uma semana
